@@ -61,6 +61,9 @@ export default function DashboardLayouts() {
             <NavLink to="/dashboard/seminar" className={linkClass}>
               Seminar
             </NavLink>
+            <NavLink to="/dashboard/biodata" className={linkClass}>
+              Biodata
+            </NavLink>
           </div>
         </div>
 

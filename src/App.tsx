@@ -17,6 +17,7 @@ import SpeakerCreate from "./dashboard/Seminar/SpeakCreate";
 import EventCreate from "./dashboard/Event/CreateEvent";
 import Competition from "./Pages/Competition";
 import Workshop from "./Pages/WorkShop";
+import BiodataIndex from "./dashboard/Biodata/Biodataindex";
 
 function App() {
   return (
@@ -46,6 +47,7 @@ function App() {
           <Route path="/dashboard/event/new" element={<EventCreate />} />
           <Route path="/dashboard/seminar" element={<SeminarIndex />} />
           <Route path="/dashboard/seminar/speaker" element={<SpeakerCreate />} />
+          <Route path="/dashboard/biodata" element={<BiodataIndex />} />
         </Route>
       </Route>
     </Routes>
