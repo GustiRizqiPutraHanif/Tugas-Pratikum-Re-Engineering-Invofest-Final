@@ -2,7 +2,6 @@ Website manajemen event berbasis Full-stack Framework.
 
 ## Identitas Mahasiswa
 
-| Field    | Detail                                    |
 |----------|:-----------------------------------------:|
 | Nama     | Gusti Rizqi Putra Hanif                     |
 | NIM      | 24090066                                  |
@@ -14,9 +13,12 @@ Website manajemen event berbasis Full-stack Framework.
 
 ## Teknologi yang Digunakan
 
-Frontend
-React + TypeScript
-Zustand (state management & auth)
-React Hook Form + Zod (validasi form)
-React Router DOM (routing & protected routes)
-Tailwind CSS (styling neubrutalism)
+### Frontend
+
+* React
+  * TypeScript
+  * JSX
+* State Management
+  * Zustand
+* Styling
+  * Tailwind CSS
