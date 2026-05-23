@@ -119,7 +119,7 @@ export default function EventCreate() {
 
         <Button
           label="Add"
-          type="submit"
+           type="submit"
           variant="primary"
           className="bg-blue-500 text-black font-black uppercase border-2 border-black shadow-[3px_3px_0px_0px_#000] hover:bg-blue-400 hover:shadow-[5px_5px_0px_0px_#000] hover:-translate-x-0.5 hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 active:shadow-[2px_2px_0px_0px_#000] transition-all"
         />
