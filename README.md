@@ -10,7 +10,7 @@ Website manajemen event berbasis Full-stack Framework.
 | Prodi    | D4 Teknik Informatika                     |
 | Fakultas | Sekolah Vokasi — Universitas Harkat Negeri |
 
-| GitHub Backend | [https://github.com/GustiRizqiPutraHanif/BE_INVOFEST] | | Youtube | [] |
+| GitHub Backend | [https://github.com/GustiRizqiPutraHanif/BE_INVOFEST] | | Youtube | [https://www.youtube.com/watch?v=gLTm48WBYv0] |
 
 ## Teknologi yang Digunakan
 
