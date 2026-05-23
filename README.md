@@ -2,6 +2,7 @@ Website manajemen event berbasis Full-stack Framework.
 
 ## Identitas Mahasiswa
 
+| Field    | Detail                                    |
 |----------|:-----------------------------------------:|
 | Nama     | Gusti Rizqi Putra Hanif                     |
 | NIM      | 24090066                                  |
