@@ -12,13 +12,13 @@ export default function BiodataIndex() {
 
   return (
     <div className="p-6 min-h-screen bg-gray-50">
-      <div className="relative border-4 border-black bg-yellow-300 shadow-[8px_8px_0px_0px_#000] p-8 mb-8 overflow-hidden">
+      <div className="relative border-4 border-black bg-blue-400 shadow-[8px_8px_0px_0px_#000] p-8 mb-8 overflow-hidden">
         <div className="absolute top-0 right-0 w-32 h-32 bg-black opacity-10 rounded-bl-full" />
         <div className="absolute bottom-0 left-0 w-24 h-24 bg-black opacity-10 rounded-tr-full" />
         <p className="text-xs font-black uppercase tracking-widest text-black/60 mb-1">
           Universitas Harkat Negeri
         </p>
-        <h1 className="text-4xl font-black uppercase tracking-tight text-black">
+        <h1 className="text-4xl font-black uppercase tracking-tight text-white">
           Biodata Mahasiswa
         </h1>
         <p className="font-bold text-black/70 mt-2 text-sm uppercase tracking-wider">
@@ -44,7 +44,7 @@ export default function BiodataIndex() {
               <p className="text-sm font-bold text-gray-500 uppercase">24090066</p>
             </div>
             <div className="flex flex-col gap-2 w-full">
-              <div className="bg-black text-blue-300 font-black uppercase text-xs px-4 py-2 tracking-widest text-center border-2 border-black">
+              <div className="bg-blue-500 text-white font-black uppercase text-xs px-4 py-2 tracking-widest text-center border-2 border-black">
                 Mahasiswa Aktif
               </div>
               <div className="bg-blue-500 text-white font-black uppercase text-xs px-4 py-2 tracking-widest text-center border-2 border-black">
